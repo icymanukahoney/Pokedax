@@ -101,7 +101,7 @@ pokemon.id.includes(searchTerm)
   
   return (
     <div className="main-container">
-   
+   <h1>List of pokemons</h1>
 <form className="search-form">
 
 {/* Search Bar */}
